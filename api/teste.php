@@ -18,5 +18,7 @@
     
     ?>
 
+    <button><a href="./TESTE2/teste2.php">TESTE</a></button>
+
     </body>
 </html>
